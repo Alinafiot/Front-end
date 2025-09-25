@@ -34,6 +34,7 @@ body {
 
 #top-text p {
   margin: 0;
+  text-align: center;
 }
 
 #columns {
@@ -75,6 +76,7 @@ body {
 
 #bottom-text p {
   margin: 0;
+  text-align: center;
 }
 
 #footer {
@@ -84,4 +86,9 @@ body {
   line-height: 100px;
   margin: 0;
   padding: 0;
+}
+
+#footer p{
+   margin: 0;
+
 }
