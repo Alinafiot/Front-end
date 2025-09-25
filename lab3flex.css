@@ -81,7 +81,7 @@ body {
 
 #footer {
   background: #D3CBBF;
-  height: 100px;
+  height: 150px;
   text-align: center;
   line-height: 100px;
   margin: 0;
@@ -90,5 +90,4 @@ body {
 
 #footer p{
    margin: 0;
-
 }
