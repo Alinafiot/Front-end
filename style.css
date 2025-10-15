@@ -229,3 +229,28 @@ td {
   left: 50%;
   transform: translate(5px,-40px) rotate(-25deg);
 }
+
+
+.image-container {
+    margin-top: 30px;
+}
+
+#photo {
+    width: 200px;
+    height: auto;
+}
+
+.buttonsv4 {
+    margin-top: 10px;
+}
+
+button {
+    background-color: brown;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.buttonsv5 {
+    margin-top: 10px;
+}
